@@ -1,0 +1,75 @@
+# IVE – ♥beats
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You're the best at feeling
+Your heart 삐-빅
+사랑을 난 Typing
+Click, 넌 'Agree'
+삐그덕대 몸이
+Heart be-beats
+처음 알았지?
+네가 살아있단 느낌
+뭐 해? 툭 보내도
+넌 Offline
+방화벽 쌓아봐 더 내겐 모래성
+짓궂게 놀려줄래
+뚝딱거리는 Robot 같은 너
+살짝 호기심 같은 게 생기려 하는 걸
+버튼을 눌러 꾹
+So fast 신경회로 돌려 왜
+과열, 결국 폭발할 텐데
+(Bump it) 전기가 찌릿
+(Bump it) 눈앞이 지직
+(B-b-bum-bump it) 난 답이 없지
+사랑이란 늘 오류투성이
+You're the best at feeling
+Your heart 삐-빅
+사랑을 난 Typing
+Click, 넌 'Agree'
+삐그덕대 몸이
+Heart be-beats
+처음 알았지?
+네가 살아있단 느낌
+어때? 나야
+예측 불가
+처음 느낀 감각
+Spicy hot no mild
+어디선가 글로 배운 뻔한 멘트가 귀엽네 정말
+어디 계속 더 해봐
+So bad 틀에 갇혀 있는 건
+Like that 던져버려 Manual
+(Bump it) 전기가 찌릿
+(Bump it) 눈앞이 지직
+(B-b-bum-bump it) 난 답이 없지
+사랑이란 늘 오류투성이
+You're the best at feeling
+Your heart 삐-빅
+반짝이는 눈빛
+I'm so litty
+들려 여기까지
+Heart be-beats
+언제 바꿨지?
+바탕화면 My selfie
+"And when the rain falls
+Your hand I will always hold
+Through the sleet
+Through the snow
+I will always be yours
+I live for your smile
+I live for your touch
+Your love is never too much"
+숨을 조이던 나사를 풀고
+사랑에 빠진 바보가 돼
+유치하지만 좋아 그게 baby
+너를 만나야 충전이 돼
+You're the best at feeling
+Your heart 삐-빅
+사랑을 난 Typing
+Click, 넌 'Agree'
+삐그덕대 몸이
+Heart be-beats
+이제 알겠지?
+진짜 사랑이란 느낌
+```
