@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "♥beats",
+  "base_artist": "IVE",
+  "createdAt": "2025-12-04T03:21:18.919398Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Baltimore Love Thing (Produced by Cue Beats for On Cue Productions, Inc\u0000Teamwork Music)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/01_A_Baltimore_Love_Thing_(Produced_by_Cue_Beats_for_On_Cue_Productions,_Inc\u0000Teamwo_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beats to the Rhyme",
+      "artist": "Run-DMC",
+      "has_synced": true,
+      "path": "select/02_Beats_to_the_Rhyme_Run-DMC.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stupid Girl (Todd Terry's Bonus Beats/Remastered)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/03_Stupid_Girl_(Todd_Terry's_Bonus_Beats_Remastered)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stupid Girl (Todd Terry - Todd Terry's Bonus Beats)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/04_Stupid_Girl_(Todd_Terry_-_Todd_Terry's_Bonus_Beats)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Modern Beats",
+      "artist": "The Zephyrs",
+      "has_synced": false,
+      "path": "select/05_Modern_Beats_The_Zephyrs.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Not Your Toy - Jack Beats Remix",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/06_I'm_Not_Your_Toy_-_Jack_Beats_Remix_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm Not Your Toy (Jack Beats remix)",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/07_I'm_Not_Your_Toy_(Jack_Beats_remix)_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ten Four (Produced By Murda Beats)",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/08_Ten_Four_(Produced_By_Murda_Beats)_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Detected Beats",
+      "artist": "Mouse On Mars",
+      "has_synced": false,
+      "path": "select/09_Detected_Beats_Mouse_On_Mars.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Identity (Zaxx Remix) - Sakura Chill Beats Singles",
+      "artist": "Kiro Akiyama",
+      "has_synced": false,
+      "path": "select/10_Identity_(Zaxx_Remix)_-_Sakura_Chill_Beats_Singles_Kiro_Akiyama.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It Beats For You",
+      "artist": "My Morning Jacket",
+      "has_synced": true,
+      "path": "select/11_It_Beats_For_You_My_Morning_Jacket.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bitches (Domo Genesis And Hodgy Beats)",
+      "artist": "Odd Future",
+      "has_synced": true,
+      "path": "select/12_Bitches_(Domo_Genesis_And_Hodgy_Beats)_Odd_Future.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hcad (Domo Genesis, Hodgy Beats, Tyler The Creator)",
+      "artist": "Odd Future",
+      "has_synced": true,
+      "path": "select/13_Hcad_(Domo_Genesis,_Hodgy_Beats,_Tyler_The_Creator)_Odd_Future.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lean (Hodgy Beats And Domo Genesis)",
+      "artist": "Odd Future",
+      "has_synced": true,
+      "path": "select/14_Lean_(Hodgy_Beats_And_Domo_Genesis)_Odd_Future.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "NY (Ned Flander) (Hodgy Beats And Tyler The Creator)",
+      "artist": "Odd Future",
+      "has_synced": true,
+      "path": "select/15_NY_(Ned_Flander)_(Hodgy_Beats_And_Tyler_The_Creator)_Odd_Future.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "P (Hodgy Beats And Tyler The Creator)",
+      "artist": "Odd Future",
+      "has_synced": false,
+      "path": "select/16_P_(Hodgy_Beats_And_Tyler_The_Creator)_Odd_Future.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rello (Hodgy Beats, Domo Genesis, Tyler The Creator)",
+      "artist": "Odd Future",
+      "has_synced": true,
+      "path": "select/17_Rello_(Hodgy_Beats,_Domo_Genesis,_Tyler_The_Creator)_Odd_Future.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "♥beats",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_♥beats_IVE.txt"
+    }
+  ]
+}
